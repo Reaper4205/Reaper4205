@@ -48,13 +48,6 @@ Hey there! I'm a developer with a passion for creating functional code. When I'm
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reaper4205&theme=react&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reaper4205&show_icons=true&theme=transparent" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reaper4205&layout=compact&theme=transparent" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=reaper4205&theme=transparent" />
-</div>
 
 </div>
 
