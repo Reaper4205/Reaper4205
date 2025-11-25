@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <div align="center">
 
-<img src=" https://i.imgur.com/nTiKy0z.gif " width="180" align="right"/>
+<img src="https://i.imgur.com/nTiKy0z.gif" width="200" align="right"/>
 
 <div align="center">
 
