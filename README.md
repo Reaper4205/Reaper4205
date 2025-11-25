@@ -1,13 +1,12 @@
 <!-- Header Section -->
 <div align="center">
 
-<img src="https://i.imgur.com/nTiKy0z.gif" width="200" align="right"/>
+<img src="https://i.imgur.com/nTiKy0z.gif" width="180" align="right"/>
 
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Nikhil+Kumar!;Full+Stack+Developer;Open+Source+Enthusiast)
 
- <img src="https://media.tenor.com/RvYp98uP8jMAAAAj/blue-flame.gif" width="40"/>
  </div>
 
 **`A passionate developer with logical problem solving skills!`**
